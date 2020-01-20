@@ -1,0 +1,4 @@
+# Webserver with Go [Spark](https://github.com/rif/spark)
+# Install: `go get github.com/rif/spark`
+# Credit: [fahrinh](https://gist.github.com/fahrinh)
+spark -port 8000 .
