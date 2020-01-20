@@ -1,0 +1,4 @@
+# Webserver with [Clojure](https://clojure.org/), [Leiningen](https://leiningen.org/), [lien-simpleton](https://github.com/tailrecursion/lein-simpleton)
+# Install: `echo "{:user {:plugins [[lein-simpleton \"1.3.0\"]]}}" > ~/.lein/profiles.clj`
+# Credit: [sesm](https://gist.github.com/sesm)
+lein simpleton 8080

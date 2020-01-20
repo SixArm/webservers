@@ -9,3 +9,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-crystal
 * webserver-with-python
 * webserver-with-php
+* webserver-with-clojure-lein-simpleton
