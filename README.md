@@ -15,6 +15,7 @@ Webserver scripts with implementations in many languages. These are typically on
 * [webserver-with-go-gotty](bin/webserver-with-go-gotty)
 * [webserver-with-go-spark](bin/webserver-with-go-spark)
 * [webserver-with-haskell-maid](bin/webserver-with-haskell-maid)
+* [webserver-with-mercurial](bin/webserver-with-mercurial)
 * [webserver-with-node-beefy](bin/webserver-with-node-beefy)
 * [webserver-with-node-glance](bin/webserver-with-node-glance)
 * [webserver-with-node-harp](bin/webserver-with-node-harp)

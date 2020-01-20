@@ -1,0 +1,3 @@
+# Webserver with [Mercurial](https://www.mercurial-scm.org/)
+# Credit: [Piotr Paczkowski](https://github.com/trzecieu)
+hg serve
