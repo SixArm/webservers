@@ -1,0 +1,3 @@
+# Webserver with Ruby.
+# Credit: [Nobuyoshi Nakada](https://github.com/nobu)
+ruby -run -ehttpd . -p8000
