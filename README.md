@@ -1,6 +1,6 @@
-# Webserver with implementations in many languages
+# Webservers with implementations in many languages
 
-Webserver scripts with implementations in many languages. These are typically one-liners good for serving files from a local directory. These are typically simple to install, use, and configure. We welcome more.
+Webservers with implementations in many languages, using quick short scripts to serve files from a local directory. We welcome constructive feedback and more implementations.
 
 * [webserver-with-busybox](bin/webserver-with-busybox)
 * [webserver-with-caddy](bin/webserver-with-caddy)
