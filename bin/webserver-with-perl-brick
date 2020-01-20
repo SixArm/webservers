@@ -1,0 +1,3 @@
+# Webserver with [Perl](https://www.perl.org/) and [Brick](https://metacpan.org/pod/HTTP::Server::Brick).
+# Install: `cpan HTTP::Server::Brick`
+perl -MHTTP::Server::Brick -e '$s=HTTP::Server::Brick->new(port=>8000); $s->mount("/"=>{path=>"."}); $s->start'
