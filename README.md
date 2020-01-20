@@ -35,3 +35,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-perl-brick
 * webserver-with-ruby-serve
 * webserver-with-go-spark
+* webserver-with-erlang
