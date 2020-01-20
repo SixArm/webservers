@@ -23,3 +23,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-python-twisted
 * webserver-with-perl-mojolicious
 * webserver-with-busybox
+* webserver-with-ruby-knod

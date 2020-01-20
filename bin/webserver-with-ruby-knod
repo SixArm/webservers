@@ -1,0 +1,6 @@
+# Webserver with [Ruby](https://www.ruby-lang.org/en/) and [knod](https://rubygems.org/gems/knod)
+# Install: `gem install knod`
+# Caution: Knod can also write to and delete from the directory you specify.
+# Credit: [Ryan Moser](https://github.com/moserrya)
+knod -p 8000
+
