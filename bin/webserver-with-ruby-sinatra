@@ -1,0 +1,3 @@
+# Webserver with Ruby and [Sinatra](https://github.com/sinatra/sinatra).
+# Install: `gem install sinatra`
+ruby -rsinatra -e'set :public_folder, "."; set :port, 8000'

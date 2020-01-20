@@ -25,3 +25,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-busybox
 * webserver-with-ruby-knod
 * webserver-with-go-gost
+* webserver-with-ruby-sinatra
