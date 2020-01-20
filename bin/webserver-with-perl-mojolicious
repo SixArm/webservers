@@ -1,0 +1,3 @@
+# Webserver with [Perl](https://www.perl.org/) and [Mojolicious](https://mojolicious.org/)
+# Install: `cpan Mojolicious::Lite`
+$ perl -MMojolicious::Lite -MCwd -e 'app->static->paths->[0]=getcwd; app->start' daemon -l http://*:8000
