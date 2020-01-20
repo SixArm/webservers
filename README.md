@@ -27,3 +27,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-go-gost
 * webserver-with-ruby-sinatra
 * webserver-with-twistd
+* webserver-with-ruby-rack

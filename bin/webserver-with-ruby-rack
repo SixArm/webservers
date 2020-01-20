@@ -1,0 +1,4 @@
+# Webserver with [Ruby](https://www.ruby-lang.org/en/) and [Rack](https://rubygems.org/gems/rack)
+# Install: `gem install rack`
+# Credit: [Laurent Vallar](https://github.com/Val)
+rackup -b 'use Rack::Static, :index => 'README.html'; run Rack::File.new('.')"
