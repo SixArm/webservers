@@ -35,6 +35,7 @@ Webserver scripts with implementations in many languages. These are typically on
 * [webserver-with-ruby-webrick](bin/webserver-with-ruby-webrick)
 * [webserver-with-ruby](bin/webserver-with-ruby)
 * [webserver-with-twistd](bin/webserver-with-twistd)
+* [webserver-with-wordpress-wp-cli](bin/webserver-with-wordpress-wp-cli)
 
 See the `/bin` directory for all the files.
 
