@@ -16,3 +16,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-node-harp
 * webserver-with-common-lisp
 * webserver-with-perl-plack
+* webserver-with-elixir

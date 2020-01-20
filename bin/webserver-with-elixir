@@ -1,0 +1,3 @@
+# Webserver with [Elixir](https://elixir-lang.org/).
+# Credit: [nabinno](https://github.com/nabinno)
+elixir --no-halt --app inets -e ":inets.start(:httpd,[{:server_name,'s'},{:document_root,'.'},{:server_root,'.'},{:port,8000}])"
