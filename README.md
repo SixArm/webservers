@@ -6,3 +6,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-ruby-webrick
 * webserver-with-ruby
 * webserver-with-node-glance
+* webserver-with-crystal

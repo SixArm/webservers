@@ -1,0 +1,3 @@
+# Webserver with [Crystal](https://crystal-lang.org/)
+# Credit: [beno](https://github.com/beno)
+crystal eval 'require "http/server"; HTTP::Server.new(8000, HTTP::StaticFileHandler.new(".")).listen'
