@@ -1,0 +1,3 @@
+# Webserver with [BusyBox](https://www.busybox.net/)
+# Credit: [Mauro](https://github.com/lvm)
+busybox httpd -p $PORT -h $HOME
