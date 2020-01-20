@@ -1,0 +1,4 @@
+# Webserver with [Haskell](https://www.haskell.org/) and [Maid](https://hackage.haskell.org/package/maid)
+# Install: `cabal install maid`
+# Credit: [withakay](https://github.com/withakay)
+maid

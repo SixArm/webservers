@@ -11,3 +11,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-php
 * webserver-with-clojure-lein-simpleton
 * webserver-with-caddy
+* webserver-with-haskell-maid
