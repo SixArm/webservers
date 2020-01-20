@@ -1,0 +1,4 @@
+# Webserver with [Go](https://golang.org/) and [Gost](https://github.com/vwochnik/gost)
+# Install: `go get github.com/vwochnik/gost`
+# Credit: [Vincent Wochnik](https://github.com/vwochnik)
+gost
