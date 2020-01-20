@@ -1,0 +1,3 @@
+# Webserver with [NPM](https://www.npmjs.com/) and [http-server](https://www.npmjs.com/package/http-server)
+# Install: `npm install -g http-server`
+$ http-server -p 8000
