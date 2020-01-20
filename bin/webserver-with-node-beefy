@@ -1,0 +1,4 @@
+# Webserver with [Node](https://nodejs.org) and [beefy](https://www.npmjs.com/package/beefy)
+# Install: `npm install -g beefy`
+# Credit: [Maurits van Mastrigt](https://github.com/mauvm)
+beefy
