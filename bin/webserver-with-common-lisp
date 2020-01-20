@@ -1,0 +1,4 @@
+# Webserver with [Common Lisp](https://lisp-lang.org/).
+# Install: `ros install clack`
+# Credit: [Masataro Asai](https://github.com/guicho271828)
+clackup <(echo "(lack:builder (:static :path #'identity) #'identity)")

@@ -14,3 +14,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-haskell-maid
 * webserver-with-node-static
 * webserver-with-node-harp
+* webserver-with-common-lisp
