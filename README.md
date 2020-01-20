@@ -29,3 +29,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-twistd
 * webserver-with-ruby-rack
 * webserver-with-drupal-drush
+* webserver-with-docker-apache
