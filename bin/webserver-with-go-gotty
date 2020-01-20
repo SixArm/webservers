@@ -1,0 +1,4 @@
+# Webserver with [Go](https://golang.org/) and [Gotty](https://github.com/yudai/gotty)
+# Install: `go get github.com/yudai/gotty`
+# Credit: [ThePacketBender](https://github.com/ThePacketBender)
+gotty -a 127.0.0.1 -p 8000 -w cat file.ext
