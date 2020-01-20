@@ -11,6 +11,7 @@ Webserver scripts with implementations in many languages. These are typically on
 * [webserver-with-drupal-drush](bin/webserver-with-drupal-drush)
 * [webserver-with-elixir](bin/webserver-with-elixir)
 * [webserver-with-erlang](bin/webserver-with-erlang)
+* [webserver-with-gawk](bin/webserver-with-gawk)
 * [webserver-with-go-gost](bin/webserver-with-go-gost)
 * [webserver-with-go-gotty](bin/webserver-with-go-gotty)
 * [webserver-with-go-spark](bin/webserver-with-go-spark)
