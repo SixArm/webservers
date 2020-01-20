@@ -1,38 +1,41 @@
 # Webserver with implementations in many languages
 
-See the `/bin` directory for the files.
+Webserver scripts with implementations in many languages. These are typically one-liners good for serving files from a local directory. These are typically simple to install, use, and configure. We welcome more.
+
+* [webserver-with-busybox](bin/webserver-with-busybox)
+* [webserver-with-caddy](bin/webserver-with-caddy)
+* [webserver-with-clojure-lein-simpleton](bin/webserver-with-clojure-lein-simpleton)
+* [webserver-with-common-lisp](bin/webserver-with-common-lisp)
+* [webserver-with-crystal](bin/webserver-with-crystal)
+* [webserver-with-docker-apache](bin/webserver-with-docker-apache)
+* [webserver-with-drupal-drush](bin/webserver-with-drupal-drush)
+* [webserver-with-elixir](bin/webserver-with-elixir)
+* [webserver-with-erlang](bin/webserver-with-erlang)
+* [webserver-with-go-gost](bin/webserver-with-go-gost)
+* [webserver-with-go-gotty](bin/webserver-with-go-gotty)
+* [webserver-with-go-spark](bin/webserver-with-go-spark)
+* [webserver-with-haskell-maid](bin/webserver-with-haskell-maid)
+* [webserver-with-node-beefy](bin/webserver-with-node-beefy)
+* [webserver-with-node-glance](bin/webserver-with-node-glance)
+* [webserver-with-node-harp](bin/webserver-with-node-harp)
+* [webserver-with-node-http-server](bin/webserver-with-node-http-server)
+* [webserver-with-node-static](bin/webserver-with-node-static)
+* [webserver-with-perl-brick](bin/webserver-with-perl-brick)
+* [webserver-with-perl-mojolicious](bin/webserver-with-perl-mojolicious)
+* [webserver-with-perl-plack](bin/webserver-with-perl-plack)
+* [webserver-with-php](bin/webserver-with-php)
+* [webserver-with-python-2](bin/webserver-with-python-2)
+* [webserver-with-python-twisted](bin/webserver-with-python-twisted)
+* [webserver-with-python](bin/webserver-with-python)
+* [webserver-with-ruby-asdf](bin/webserver-with-ruby-asdf)
+* [webserver-with-ruby-knod](bin/webserver-with-ruby-knod)
+* [webserver-with-ruby-rack](bin/webserver-with-ruby-rack)
+* [webserver-with-ruby-serve](bin/webserver-with-ruby-serve)
+* [webserver-with-ruby-sinatra](bin/webserver-with-ruby-sinatra)
+* [webserver-with-ruby-webrick](bin/webserver-with-ruby-webrick)
+* [webserver-with-ruby](bin/webserver-with-ruby)
+* [webserver-with-twistd](bin/webserver-with-twistd)
+
+See the `/bin` directory for all the files.
 
 Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://gist.github.com/willurd/5720255)
-* webserver-with-ruby-webrick
-* webserver-with-ruby
-* webserver-with-node-glance
-* webserver-with-crystal
-* webserver-with-python
-* webserver-with-php
-* webserver-with-clojure-lein-simpleton
-* webserver-with-caddy
-* webserver-with-haskell-maid
-* webserver-with-node-static
-* webserver-with-node-harp
-* webserver-with-common-lisp
-* webserver-with-perl-plack
-* webserver-with-elixir
-* webserver-with-node-beefy
-* webserver-with-ruby-asdf
-* webserver-with-python-2
-* webserver-with-python-twisted
-* webserver-with-perl-mojolicious
-* webserver-with-busybox
-* webserver-with-ruby-knod
-* webserver-with-go-gost
-* webserver-with-ruby-sinatra
-* webserver-with-twistd
-* webserver-with-ruby-rack
-* webserver-with-drupal-drush
-* webserver-with-docker-apache
-* webserver-with-go-gotty
-* webserver-with-node-http-server
-* webserver-with-perl-brick
-* webserver-with-ruby-serve
-* webserver-with-go-spark
-* webserver-with-erlang
