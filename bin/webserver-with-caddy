@@ -1,0 +1,3 @@
+# Webserver with [Caddy](https://caddyserver.com/)
+# Install Caddy as usual.
+caddy -port 8000
