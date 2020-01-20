@@ -19,3 +19,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-elixir
 * webserver-with-node-beefy
 * webserver-with-ruby-asdf
+* webserver-with-python-2
