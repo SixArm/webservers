@@ -1,0 +1,4 @@
+# Webserver with [Perl](https://www.perl.org/) and [Plack](https://plackperl.org/)
+# Install: `cpan Plack`
+# Credit: [miyagawa](https://advent.plackperl.org/2009/12/day-5-run-a-static-file-web-server-with-plack.html)
+plackup -MPlack::App::Directory -e 'Plack::App::Directory->new(root=>".");' -p 8000
