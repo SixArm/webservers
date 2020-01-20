@@ -33,3 +33,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-go-gotty
 * webserver-with-node-http-server
 * webserver-with-perl-brick
+* webserver-with-ruby-serve

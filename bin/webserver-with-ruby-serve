@@ -1,0 +1,4 @@
+# Webserver with [Ruby](https://www.ruby-lang.org) and [serve](https://rubygems.org/gems/serve)
+# Install: `gem install serve`
+# Credit: [Sean Omlor](https://github.com/seanomlor)
+serve
