@@ -12,3 +12,4 @@ Credit: collected by [Willurd](https://gist.github.com/willurd) [here](https://g
 * webserver-with-clojure-lein-simpleton
 * webserver-with-caddy
 * webserver-with-haskell-maid
+* webserver-with-node-static
